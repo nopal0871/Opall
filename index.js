@@ -1,4 +1,4 @@
-let { spawn } = require('child_process')
+let { spawn } = require('qrcode-terminal')
 let path = require('path')
 let fs = require('fs')
 const CFonts = require('cfonts')
